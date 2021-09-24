@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3sD9WAtLdrgEqWcbxF/BFmj2di5ktxt0temUr5jwutesMWrqKNGq1lu12fg3CzHzP5+siyex5lCwEGtXnE4bew==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\prof.lucchi\\source\\repos\\SortArray\\SortArray\\SortArray.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\prof.lucchi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
