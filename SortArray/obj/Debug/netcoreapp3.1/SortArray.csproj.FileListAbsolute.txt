@@ -1,0 +1,13 @@
+C:\Users\prof.lucchi\source\repos\SortArray\SortArray\bin\Debug\netcoreapp3.1\SortArray.exe
+C:\Users\prof.lucchi\source\repos\SortArray\SortArray\bin\Debug\netcoreapp3.1\SortArray.deps.json
+C:\Users\prof.lucchi\source\repos\SortArray\SortArray\bin\Debug\netcoreapp3.1\SortArray.runtimeconfig.json
+C:\Users\prof.lucchi\source\repos\SortArray\SortArray\bin\Debug\netcoreapp3.1\SortArray.runtimeconfig.dev.json
+C:\Users\prof.lucchi\source\repos\SortArray\SortArray\bin\Debug\netcoreapp3.1\SortArray.dll
+C:\Users\prof.lucchi\source\repos\SortArray\SortArray\bin\Debug\netcoreapp3.1\SortArray.pdb
+C:\Users\prof.lucchi\source\repos\SortArray\SortArray\obj\Debug\netcoreapp3.1\SortArray.csproj.AssemblyReference.cache
+C:\Users\prof.lucchi\source\repos\SortArray\SortArray\obj\Debug\netcoreapp3.1\SortArray.AssemblyInfoInputs.cache
+C:\Users\prof.lucchi\source\repos\SortArray\SortArray\obj\Debug\netcoreapp3.1\SortArray.AssemblyInfo.cs
+C:\Users\prof.lucchi\source\repos\SortArray\SortArray\obj\Debug\netcoreapp3.1\SortArray.csproj.CoreCompileInputs.cache
+C:\Users\prof.lucchi\source\repos\SortArray\SortArray\obj\Debug\netcoreapp3.1\SortArray.dll
+C:\Users\prof.lucchi\source\repos\SortArray\SortArray\obj\Debug\netcoreapp3.1\SortArray.pdb
+C:\Users\prof.lucchi\source\repos\SortArray\SortArray\obj\Debug\netcoreapp3.1\SortArray.genruntimeconfig.cache
